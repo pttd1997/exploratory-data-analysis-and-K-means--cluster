@@ -1,10 +1,10 @@
-# **🏷️ EDA project and Customer Segmentation in Bank**
+# ** 🏦 EDA Project and Customer Segmentation in Bank**
 
 
-![Bank]([https://tse2.mm.bing.net/th/id/OIP.vdcDMKwke20rx-F7_CWcIQHaEK?pid=Api&P=0&h=220])
+![Bank](https://tse2.mm.bing.net/th/id/OIP.vdcDMKwke20rx-F7_CWcIQHaEK?pid=Api&P=0&h=220)
 
 
-## 📌 Overview
+## 📝 Overview
 
 This project explores recent customer account data to segment clients into key groups. The goal is to help the bank improve targeting strategies and enhance risk assessment by identifying distinct customer profiles.
 
