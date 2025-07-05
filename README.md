@@ -1,4 +1,4 @@
-# ** 🏦 EDA Project and Customer Segmentation in Bank**
+# 🏦 EDA Project and Customer Segmentation in Bank
 
 
 ![Bank](https://tse2.mm.bing.net/th/id/OIP.vdcDMKwke20rx-F7_CWcIQHaEK?pid=Api&P=0&h=220)
@@ -8,7 +8,7 @@
 
 This project explores recent customer account data to segment clients into key groups. The goal is to help the bank improve targeting strategies and enhance risk assessment by identifying distinct customer profiles.
 
-## Dataset
+## 🗂️ Dataset
 
 The dataset “data_retail.csv” contains information about customer transactions from a retail
 bank. It includes **1,048,556** rows of data and the following **9 variables**.
@@ -43,11 +43,11 @@ The step will focus on issues such as **data cleaning**, **visualization and exp
 
 - Visualized clusters using PCA for dimensionality reduction.
 
-## Segmentation Result
+## 🔍 Segmentation Result
 
 After evaluating two methods, the optimal K value was determined to be **4**. Customers were segmented into **four groups** with **distinct characteristics and behaviors**, each suggesting different levels of risk and requiring the bank to develop appropriate strategies for management and engagement.
 
-## Business Insights
+## 🎯 Business Insights
 
 Based on the K-Means segmentation with 4 clusters, the following strategies are recommended to tailor products, marketing, and risk management for each segment:
 
