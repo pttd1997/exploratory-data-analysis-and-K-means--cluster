@@ -54,7 +54,6 @@ After evaluating two methods, the optimal K value was determined to be **4**. Cu
   <img src="outputs/output.png" alt="K-Means Clustering" width="600"/>
 </p>
 
-
 <p align="center">
   <img src="outputs/Max Balance Distribution by Cluster.png" alt="Max Balance Distribution" width="600"/>
 </p>
