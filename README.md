@@ -49,6 +49,17 @@ The step will focus on issues such as **data cleaning**, **visualization and exp
 
 After evaluating two methods, the optimal K value was determined to be **4**. Customers were segmented into **four groups** with **distinct characteristics and behaviors**, each suggesting different levels of risk and requiring the bank to develop appropriate strategies for management and engagement.
 
+
+<p align="center">
+  <img src="outputs/output.png" alt="K-Means Clustering" width="600"/>
+</p>
+
+
+<p align="center">
+  <img src="outputs/Max Balance Distribution by Cluster.png" alt="Max Balance Distribution" width="600"/>
+</p>
+
+
 ## 🎯 Business Insights
 
 Based on the K-Means segmentation with 4 clusters, the following strategies are recommended to tailor products, marketing, and risk management for each segment:
