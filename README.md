@@ -89,5 +89,5 @@ Based on the K-Means segmentation with 4 clusters, the following strategies are 
 
 
 <p align="center">
-  <img src="outputs/Clustes visualization.png" alt="Cluster Visualization" width="600"/>
+  <img src="outputs/Clustes visualization.png" alt="Cluster Visualization" width="700"/>
 </p>
