@@ -1,7 +1,9 @@
 # 🏦 EDA Project and Customer Segmentation in Bank
 
 
-![Bank](https://tse2.mm.bing.net/th/id/OIP.vdcDMKwke20rx-F7_CWcIQHaEK?pid=Api&P=0&h=220)
+<p align="center">
+  <img src="https://tse2.mm.bing.net/th/id/OIP.vdcDMKwke20rx-F7_CWcIQHaEK?pid=Api&P=0&h=220" alt="Bank" width="500"/>
+</p>
 
 
 ## 📝 Overview
