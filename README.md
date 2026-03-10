@@ -12,42 +12,21 @@ This project explores recent customer account data to segment clients into key g
 
 ## 🗂️ Dataset
 
-The dataset “data_retail.csv” contains information about customer transactions from a retail
-bank. It includes **1,048,556** rows of data and the following **9 variables**.
+1,048,556 transaction records
 
-After EDA and preprocessing, the new dataset created contains over **884,256** customer transaction records across **15 variables**. This refined dataset is used in the next step for customer segmentation.
+9 raw variables → 15 engineered features after preprocessing
 
-## 🛠️ Project Structure
+884,256 clean records used for modeling
 
-1. **Exploratory Data Analysis (EDA)**:
+## 🛠️ What I Did?
 
-* Assessed dataset structure, variable distributions, and descriptive statistics.
+1. **Cleaned & explored**: Handled missing values, outliers, high-cardinality features
 
-* Evaluated and handled missing data using appropriate imputation strategies.
+2. **Engineered features**: Created recency, frequency, monetary value (RFM), balance stability, transaction patterns, time-based variables
 
-* Detected outliers and high-cardinality categorical features.
+3. **Clustered**: Applied K-Means with Elbow Method + Silhouette Analysis to find optimal k=4
 
-Feature Engineering:
-
-* Created new behavioral features (recency, frequency, monetary value, balance stability, transaction patterns).
-
-* Derived time-based variables (transaction hour, month phase) and grouped location data.
-
-* Standardized and transformed features to prepare for modeling.
-
-The step will focus on issues such as **data cleaning**, **visualization and exploration** and they will mostly be done using Pandas, Seaborn, Matplotlib and Plotly libraries. 
-
-2. **Segmentation Modeling**:
-
-- Applied K-Means clustering to identify customer segments.
-
-- Determined the optimal number of clusters using both the Elbow Method and Silhouette Analysis.
-
-- Visualized clusters using PCA for dimensionality reduction.
-
-## 🔍 Segmentation Result
-
-After evaluating two methods, the optimal K value was determined to be **4**. Customers were segmented into **four groups** with **distinct characteristics and behaviors**, each suggesting different levels of risk and requiring the bank to develop appropriate strategies for management and engagement.
+4. **Validated**: Used PCA for cluster visualization
 
 
 <p align="center">
